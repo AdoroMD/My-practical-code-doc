@@ -10,3 +10,7 @@ work in progress
  3. Transport fare calculator (still working on it)
 [Take a look](https://colab.research.google.com/drive/15x1otjnZIyBOh-O55b0JihT-dclqWtqo#scrollTo=qFgRrevM2-d0)
 
+4. Popular places in Jos, mastering use of functions and nested dictionary
+   [Here](https://colab.research.google.com/drive/1MmJf9oLTo6dLUgc5C1SlGd-Zv7IuyM1x#scrollTo=4u1Im7UpoNDm)
+   in progress
+
