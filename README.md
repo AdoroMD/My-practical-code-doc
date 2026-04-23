@@ -16,3 +16,6 @@ work in progress
 
 5. My Numpy practical note book, [Here](https://colab.research.google.com/drive/1VQpGxF_R5oENGvscElJD4zfoWtQOpSbZ#scrollTo=ArPa5y9esM3f)
 
+   - My numpy home work, [here](https://colab.research.google.com/drive/1wk01uuUSAHA6pzDqcBKZC6oN_kmLnZru#scrollTo=7t92xUqhhpIg)
+   
+
