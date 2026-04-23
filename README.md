@@ -14,3 +14,5 @@ work in progress
    [Here](https://colab.research.google.com/drive/1MmJf9oLTo6dLUgc5C1SlGd-Zv7IuyM1x#scrollTo=4u1Im7UpoNDm)
    in progress
 
+5. My Numpy practical note book, [Here](https://colab.research.google.com/drive/1VQpGxF_R5oENGvscElJD4zfoWtQOpSbZ#scrollTo=ArPa5y9esM3f)
+
