@@ -17,5 +17,8 @@ work in progress
 5. My Numpy practical note book, [Here](https://colab.research.google.com/drive/1VQpGxF_R5oENGvscElJD4zfoWtQOpSbZ#scrollTo=ArPa5y9esM3f)
 
    - My numpy home work, [here](https://colab.research.google.com/drive/1wk01uuUSAHA6pzDqcBKZC6oN_kmLnZru#scrollTo=7t92xUqhhpIg)
+
+
+6. Pandas [look at it](https://colab.research.google.com/drive/1hCWpzmWB5Kfo2ewW-3rYX1Jfd9u7Qwvr#scrollTo=s9M7p_ICfJbU)
    
 
